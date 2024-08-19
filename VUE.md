@@ -63,16 +63,17 @@ Still crawling login packages，Log in to the package on the BURP interface, rig
 Change the code response value here to 200.
 
 ![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tuuu3.png)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tuuu4.png)
 
 复现 IP4：http://120.24.68.3/
 
-![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tuuu4.png)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tu41.png)
 
-![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tu4.png)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tu42.png)
 
 Change the code response value here to 200.
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image033.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tu43.png)
 
 Other reproduced IPs: [http://47.103.199.200/login ]
 
