@@ -6,7 +6,7 @@ Vue.js is a progressive framework for building user interfaces. It is a JavaScri
 
 VUE official website: https://cn.vuejs.org/
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/VUE.png)
 
 Use a network surveying platform to search for and filter icons of VUE framework and JS page prompts for the BODY attribute of VUE framework, For example: fofa（ https://fofa.info/ ） Grammar:
 
