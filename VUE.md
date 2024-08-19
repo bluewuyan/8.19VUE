@@ -12,7 +12,7 @@ Use a network surveying platform to search for and filter icons of VUE framework
 
 (icon_hash="-1252041730" || icon_hash="1917028407") && body="Please enable it to continue"
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/VUE2.png)
 
 \2. Reproduce the process
 
@@ -22,53 +22,53 @@ Enter your ID card (username), any password, log in, and use Burp to capture thi
 
 package
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tu1.png)
 
 Log in to the package on the BURP interface, right-click and select the option marked in the image (Do intercept ------- Response to this request), and then send the package.
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tu2.png)
 
 Change the code response value here to 200.
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tu3.png)
 
 Successfully entered the system.
 
 It can be seen that successfully entering the backend, any account can enter the backend without authorization, even if it does not exist, so all usernames can be logged in without authorization.
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tu4.png)
 
 复现 IP2：https://goatmanagementsystem.cn/#/login
 
 Still crawling login packages，Log in to the package on the BURP interface, right-click and select the option marked in the image (Do intercept ------- Response to this request), and then send the package.
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tuu1.png)
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tuu2.png)
 
 Change the code response value here to 200.
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tuu3.png)
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tuu4.png)
 
 复现 IP3：http://124.220.107.171/#/login
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tuuu1.png)
 
 Still crawling login packages，Log in to the package on the BURP interface, right-click and select the option marked in the image (Do intercept ------- Response to this request), and then send the package.
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image025.gif)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tuuu2.png)
 
 Change the code response value here to 200.
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image027.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tuuu3.png)
 
 复现 IP4：http://120.24.68.3/
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image029.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tuuu4.png)
 
-![img](file:///C:/Users/26630/AppData/Local/Temp/msohtmlclip1/01/clip_image031.jpg)
+![img](https://github.com/bluewuyan/8.19VUE/blob/main/photo/tu4.png)
 
 Change the code response value here to 200.
 
